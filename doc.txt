@@ -1,0 +1,12 @@
+for php installation 
+1. Downloaded a latest version of php file which comes in  zip;
+2. extract that file in local disk c;
+2. copy the address pf the folder;
+5. the go to edit system environment variables;
+6. Click ojn environment varialbles then select path
+7. Then click new and paste the path there;
+8. them we can check the version on cmd;
+9. download xxamp server and install it ;
+10. after starting the server start apache & mysql;
+11.In the xxamp folder there will be a htdocs where we can create php file 
+12. write code on nodepad and show the output on the browser (localhost/folder namw)
